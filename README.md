@@ -13,16 +13,16 @@ Open-source fonts from the Project on Chinese Character Studies
 爲方便不同語系的作業系統使用，避免在其他語系的作業系統或軟件中失效，這些字型的實際名字都只有英文名。
 
 ## 下載
-請移玉步到[Releases頁面](releases)下載。
+請移玉步到[Releases頁面](https://github.com/project-ccs/font/releases)下載。
 
 ## 概覽
 ![各字型的字形比較表](img/比較表s.png)  
 
 ## 注意事項
-本計劃的主旨爲滿足漢字字形硏究所需。字型的修改，未必能顧及設計美感，也欠缺時間仔細修繕。而且因人手和時間所限，我們難以展望後續能作大量修改。若有意幫忙修繕，使這些字型更好，歡迎在[Issue頁面](issues)留言。
+本計劃的主旨爲滿足漢字字形硏究所需。字型的修改，未必能顧及設計美感，也欠缺時間仔細修繕。而且因人手和時間所限，我們難以展望後續能作大量修改。若有意幫忙修繕，使這些字型更好，歡迎在[Issues頁面](https://github.com/project-ccs/font/issues)留言。
 
 ## 衍生來源與授權
-這裏的字型，乃基於[IPAex明朝](https://moji.or.jp/ipafont)、[IPAmj明朝](https://moji.or.jp/mojikiban/font/)、[一點明體、一點明體異體](https://github.com/ichitenfont/I.Ming)以及[霞鶩新緻宋](https://github.com/lxgw/LxgwNeoZhiSong)等開源字型編輯、修改而成。因此與上述字型一樣，採用[IPA開放字型授權協議 1.0版](LICENSE.md)作爲開源授權條款。使用時請遵從人此授權協議之規定。
+這裏的字型，乃基於[IPAex明朝](https://moji.or.jp/ipafont)、[IPAmj明朝](https://moji.or.jp/mojikiban/font/)、[一點明體、一點明體異體](https://github.com/ichitenfont/I.Ming)以及[霞鶩新緻宋](https://github.com/lxgw/LxgwNeoZhiSong)等開源字型編輯、修改而成。因此與上述字型一樣，採用[IPA開放字型授權協議 1.0版](LICENSE.md)作爲開源授權條款。使用時請遵從此授權協議之規定。
 
 但凡有任何人使用、複製、修改、分發這些字型，或對這些字型進行任何符合「IPA開放字型授權協議 1.0版」規定的行爲，使用、下載或行使合約規定權利之接受方，亦視爲同意遵守「IPA開放字型授權協議 1.0版」的一切規定。
 
