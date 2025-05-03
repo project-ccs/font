@@ -19,7 +19,9 @@ Open-source fonts from the Project on Chinese Character Studies
 ![各字型的字形比較表](img/比較表s.png)  
 
 ## 注意事項
-本計劃的主旨爲滿足漢字字形硏究所需。字型的修改，未必能顧及設計美感，也欠缺時間仔細修繕。而且因人手和時間所限，我們難以展望後續能作大量修改。若有意幫忙修繕，使這些字型更好，歡迎在[Issues頁面](https://github.com/project-ccs/font/issues)留言。
+本計劃的主旨爲滿足漢字字形硏究所需。字型的修改，未必能顧及設計美感，也欠缺時間仔細修繕。而且一些地區的敎育字形之規定，可能會跟字型設計上的美感所需有衝突。因此若需要一般排印或顯示，我們並不推薦採用這些字型。繁體中文的排印或顯示，建議使用一點字坊的[一點明體系列](https://github.com/ichitenfont/I.Ming)；日文的排印或顯示，建議使用[IPAmj明朝（IPAmj Mincho）](https://moji.or.jp/mojikiban/font/)。
+
+因人手和時間所限，我們難以展望後續能作大量修改。若有意幫忙修繕，使這些字型更好，歡迎在[Issues頁面](https://github.com/project-ccs/font/issues)留言。
 
 ## 衍生來源與授權
 這裏的字型，乃基於[IPAex明朝](https://moji.or.jp/ipafont)、[IPAmj明朝](https://moji.or.jp/mojikiban/font/)、[一點明體、一點明體異體](https://github.com/ichitenfont/I.Ming)以及[霞鶩新緻宋](https://github.com/lxgw/LxgwNeoZhiSong)等開源字型編輯、修改而成。因此與上述字型一樣，採用[IPA開放字型授權協議 1.0版](LICENSE.md)作爲開源授權條款。使用時請遵從此授權協議之規定。
