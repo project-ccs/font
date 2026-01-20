@@ -1,5 +1,5 @@
-# 漢字硏究計劃開源字型
-Open-source fonts from the Project on Chinese Character Studies
+# 漢字硏究計劃開源字型（明體）
+Open-source fonts (Ming Style) from the Project on Chinese Character Studies
 
 ## 字型簡介
 因漢字字形之硏究所需，目前沒有符合硏究需求的字型可用，故啟動本計劃，製作符合需求之字型。目前的字型成品有：
